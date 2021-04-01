@@ -72,3 +72,5 @@ Text_End
 Chapters_Begin
 Chapters_Middle
 Chapters_End
+
+相信阁下注意到，上述的音轨和字幕中，语言出现了两次，这是因为，语言的标签和音轨、字幕的标题都填写了语言，阁下可以将 %Title% 参数删除
