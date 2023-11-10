@@ -44,7 +44,7 @@ Language.......: #3 PGS Chinese 简英双语
 Language.......: #4 PGS English 英文
 
 
-MediaInfo 的自定义模板存储在 C:\Users\[你的用户名]]\AppData\Roaming\MediaInfo\Plugin\Custom 根目录中，格式是.csv，实际只需要用文本编辑器打开就能阅读编辑。
+MediaInfo 的自定义模板存储在 C:\Users\[你的用户名]]\AppData\Roaming\MediaInfo\Plugin\Custom 或安装路径，比如：C:\Program Files\MediaInfo\Plugin\Custom 根目录中，格式是.csv，实际只需要用文本编辑器打开就能阅读编辑。
 
 以下是我的.csv文本内容，阁下只需要粘贴进记事本，保存至上述路径，将文件扩展名设置成.csv即可在MediaInfo的自定义模板中调用
 
